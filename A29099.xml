@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The description and the benefits of a regular education a sermon preach'd in the Cathedral Church of St. Paul, at the anniversary meeting of the gentlemen educated at St. Paul's School, January 25th 1699/1700 / by Samuel Bradford.</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29099</idno>
+            <idno type="STC">Wing B4109</idno>
+            <idno type="STC">ESTC R25288</idno>
+            <idno type="EEBO-CITATION">08838398</idno>
+            <idno type="OCLC">ocm 08838398</idno>
+            <idno type="VID">41942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41942)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1277:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The description and the benefits of a regular education a sermon preach'd in the Cathedral Church of St. Paul, at the anniversary meeting of the gentlemen educated at St. Paul's School, January 25th 1699/1700 / by Samuel Bradford.</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>[1], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Redmayne and to be sold by John Nutt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published at the request of the stewards."</note>
+                  <note>Running title: A sermon preached to the gentlemen educated at St. Paul's School.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 2nd, III, 14-15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Education --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41942:1" rendition="simple:additions"/>
+            <p>
+               <hi>The</hi> Deſcription <hi>and the</hi> Benefits <hi>of a Regular Education.</hi>
+            </p>
+            <p>A SERMON Preach'd in the Cathedral Church of St. PAUL, AT THE Anniverſary Meeting OF THE GENTLEMEN Educated at <hi>
+                  <hi>St. Paul's School,</hi> January</hi> 25th. 1699/1700.</p>
+            <p>
+               <hi>Publiſhed at the Requeſt of the</hi> Stewards.</p>
+            <p>
+               <hi>By</hi> Samuel Bradford, <hi>Rector of St.</hi> Mary le Bow, <hi>and Chaplain in Ordinary to His Majeſty.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William Redmayne,</hi> and to be Sold by <hi>John Nutt</hi> near <hi>Stationers hall,</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41942:2"/>
+            <pb facs="tcp:41942:2"/>
+            <p>TO MY HONOURED FRIENDS AND School-Fellows THE STEWARDS OF St. <hi>Paul</hi>'s School Feaſt.</p>
+            <list>
+               <item>John Tully <hi>Eſq;</hi>
+               </item>
+               <item>Richard Robinſon <hi>Eſq;</hi>
+               </item>
+               <item>Richard Crawley <hi>Gent.</hi>
+               </item>
+               <item>Richard Lloyd <hi>Gent.</hi>
+               </item>
+               <item>Anthony Smith <hi>Gent.</hi>
+               </item>
+               <item>Robert Paltock <hi>Gent.</hi>
+               </item>
+               <item>Edward Nelthorpe <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Dr.</hi> Thomas Sutton.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:41942:3"/>
+            <pb n="1" facs="tcp:41942:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Timothy III. 14, 15.</hi>
+                  </bibl>
+                  <p>But continue thou in the things which thou haſt learn'd and haſt been aſſur'd of, knowing of whom thou haſt learn'd them; and that from a Child thou haſt known the Holy Scriptures,—</p>
+               </q>
+            </epigraph>
+            <p>THeſe are the Words of St. <hi>Paul,</hi> that excellent Apoſtle, whoſe Memory we this Day juſtly ce<g ref="char:EOLhyphen"/>lebrate; <hi>We,</hi> whoſe Anceſtors were <hi>Sinners of the Gentiles,</hi> to whom he was particularly <hi>or<g ref="char:EOLhyphen"/>dain'd a Preacher and an Apoſtle and a Teacher in Faith and Verity; We,</hi> who inhabit an Iſland,
+<note place="margin">1 <hi>Tim.</hi> 2.7.</note> to which 'tis probable that this Apoſtle brought the firſt glad Tidings of Chriſtianity; and finally <hi>We,</hi> who beſides our gene<g ref="char:EOLhyphen"/>ral Obligation as Chriſtians, are now aſſembled upon a more particular occaſion alſo, to bleſs God for our Edu<g ref="char:EOLhyphen"/>cation in a School which bears his Name, where we learn'd, as many other good Leſſons, ſo particularly thoſe which this great Apoſtle taught, and were in out <hi>Child<g ref="char:EOLhyphen"/>hood</hi> daily exercis'd in reading <hi>the Holy Scriptures,</hi> in the writing of which our Apoſtle had ſo conſiderable a part.</p>
+            <p>It would add mightily to the Solemnity of our pre<g ref="char:EOLhyphen"/>ſent Aſſembly, and ſtrangely increaſe the Joy of it, if on <hi>this Day,</hi> and in <hi>this Place,</hi> we could have St. <hi>Au<g ref="char:EOLhyphen"/>ſtin</hi>'s wiſh granted us, to hear St. <hi>Paul</hi> ſpeaking from the Pulpit to us. But ſince <hi>that</hi> cannot be, I judg'd it might prove both to our Satisfaction and Edification to entertain our ſelves with meditating upon ſome of his Words, and thoſe too ſuch, as he might probably have himſelf utter'd to us if he had been here preſent with us, exhorting us to <hi>continue in the things which we have learn'd,</hi> &amp;c.</p>
+            <p>They were written to <hi>Timothy,</hi> whom as St. <hi>Paul</hi>
+               <pb n="2" facs="tcp:41942:4"/>had taken along with him, whilſt he was yet Young, firſt to attend, and afterwards to aſſiſt him in Preaching the Goſpel, ſo finding him extraordinarily qualified, he appointed him to abide at <hi>Epheſus,</hi> to ſettle and govern the Church planted there, and to do the Office of a chief Paſtor, or Biſhop, in that City. And whereas there were certain Seducers ſtarted up, whom our Apoſtle deſcribes, as Men equally vitiated in their Judgments and their Tempers,
+<note place="margin">v. 8.</note> 
+               <hi>Men of corrupt Minds,</hi> and <hi>reprobate concerning the Faith;</hi> ſo in oppoſition to theſe, and as the Duty of his Office, he frequently admoniſheth <hi>Timothy</hi> to con<g ref="char:EOLhyphen"/>tinue ſtedfaſt himſelf, and to endeavour that others ſhould do ſo, in the Profeſſion of that Faith which he had re<g ref="char:EOLhyphen"/>ceiv'd.
+<note place="margin">1 <hi>Tim.</hi> 6.20. 2 <hi>Tim.</hi> 1.13, 14. 2 <hi>Tim.</hi> 2.2.</note> Thus, <hi>O</hi> Timothy, <hi>keep that which is committed to thy truſt;</hi> and again, <hi>Hold faſt the form of ſound words, which thou haſt heard of me. That good thing, which was committed unto thee, keep;</hi> and laſtly, <hi>The things which thou haſt heard of me, among many Witneſſes, the ſame commit thou to faithful Men, who ſhall be able to teach others alſo;</hi> all which Paſſages, as well as that in our Text, do evidently refer to that <hi>Formulary of Faith,</hi> call'd by the Writers of the following Ages, <hi>The Rule of Faith,</hi> which was committed both to thoſe who were enter'd into the Chriſtian Church by Baptiſm, and to the Biſhops and Paſtors of it at their Ordination, and is the ſame in effect with that which we now call <hi>the Apoſtles Creed.</hi> This eſpecially, with whatſoever other particulars for the farther explication of this <hi>Rule of Faith, Timothy</hi> had at any time heard and learn'd of St. <hi>Paul,</hi> or any other of the Apoſtles, he exhorts him to retain. <hi>Continue thou in the things which thou haſt learn'd.</hi>
+            </p>
+            <p>
+               <hi>And haſt been aſſur'd of;</hi> the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the vul<g ref="char:EOLhyphen"/>gar <hi>Latin</hi> reads it, <hi>&amp; credita ſunt tibi,</hi> as if it had been in the Copy they made uſe of, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: but to keep to
+<pb n="3" facs="tcp:41942:4"/>thoſe Copies which our Tranſlators follow'd, the Word here us'd carries in it a fuller ſenſe, importing that <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> had not only receiv'd the things here ſpoken of by <hi>hearſay;</hi> but been fully inform'd, and upon conſidering the information entirely ſatisfied, upon ſolid and good grounds, of the truth of <hi>thoſe things which he had learn'd;</hi> and accordingly it follows, <hi>knowing of whom thou haſt learn'd them.</hi>
+            </p>
+            <p>If it be read, as in our Copies, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the ſingular number, it muſt denote St. <hi>Paul;</hi> if <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the plural, as the <hi>Alexandrian</hi> Manuſcript has it, it muſt take in one more at leaſt, probably <hi>Barnabas</hi> St. <hi>Paul</hi>'s Compa<g ref="char:EOLhyphen"/>nion: but whether one or more it matters not, ſince the Perſons he intimately convers'd with, had been Eye and Ear Witneſſes of the things which they taught, and were of known Veracity and Probity. St. <hi>Paul</hi> to be ſure was one of them, who was intimately known to <hi>Timothy,</hi> and had upon all occaſions teſtified an eſpe<g ref="char:EOLhyphen"/>cial regard to him, ſo that it could not be imagin'd that he would impoſe upon him. Beſides that he him<g ref="char:EOLhyphen"/>ſelf, upon account of his miraculous converſion to the Chriſtian Faith, was a more than ordinary Witneſs to it. Such were the Perſons <hi>of whom</hi> Timothy <hi>had learn'd,</hi> and from a ſerious conſideration of what they had taught him he became <hi>aſſur'd.</hi>
+            </p>
+            <p>Now was this all; but he had yet a farther advan<g ref="char:EOLhyphen"/>tage, both in order to his embracing and being confirm'd in the Faith of Chriſt, namely, that he had <hi>known the Scriptures</hi> from his very <hi>Childhood,</hi> by the Piety of thoſe who had the care of his tender Years; which <hi>Scriptures, viz.</hi> thoſe of the Old Teſtament, gave abundant evidence to the Doctrine of the Apoſtles, and were a ſtanding Teſtimony to what they taught.</p>
+            <pb n="4" facs="tcp:41942:5"/>
+            <p> Having thus explain'd the Words, we may obſerve in them theſe <hi>Three</hi> Particulars, very proper to be con<g ref="char:EOLhyphen"/>ſider'd upon this Occaſion.</p>
+            <p>
+               <hi>Firſt,</hi> The view which they give us of a juſt and re<g ref="char:EOLhyphen"/>gular Education.</p>
+            <p>
+               <hi>Secondly,</hi> An Intimation contain'd in them of ſome<g ref="char:EOLhyphen"/>thing neceſſary on the part of the Learner, as well as of the Teacher. And</p>
+            <p>
+               <hi>Thirdly,</hi> The great Obligation which ſuch Perſons are under, who have been well inſtructed, and aſſur'd of thoſe things which they have learn'd, <hi>to continue in them.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> We have here a view given us of a juſt and regular Education, in the inſtance of <hi>Timothy,</hi> to whom the Words are directed.</p>
+            <p>He had <hi>known,</hi> St. <hi>Paul</hi> tells him, <hi>the Holy Scriptures from a Child,</hi> no doubt, by the pious care of his Grand<g ref="char:EOLhyphen"/>mother and Mother, mention'd by our Apoſtle a little before,
+<note place="margin">2. <hi>Tim.</hi> 1.5.</note> where commending <hi>the unfeigned Faith, which was in him,</hi> he ſays, that <hi>it dwelt firſt in his Grandmother</hi> Lois, <hi>and his Mother</hi> Eunice, intimating that he deriv'd it from them, not certainly by meer deſcent, but by their carefully inſtructing and forming his tender mind; and the ſame Perſons, no queſtion, gave him alſo the <hi>firſt knowledge of the Holy Scriptures.</hi>
+            </p>
+            <p>'Tis true,
+<note place="margin">
+                  <hi>Acts</hi> 16.1.</note> he had a <hi>Greek,</hi> or <hi>Gentile,</hi> proſelyted, but not circumcis'd, to <hi>his Father;</hi> by which means he himſelf was not circumcis'd,
+<note place="margin">v. 3.</note> till St. <hi>Paul</hi> from prudent Conſiderations thought fit to do it, after he was com<g ref="char:EOLhyphen"/>mitted to his care; (the Father it ſeems govern'd in that matter, whilſt the Son was in his State of Infancy and Childhood, and not the Mother:) but to make amends for this diſadvantage, 'tis likely that both the Mother and Grandmother were the more ſedulous in his Inſtru<g ref="char:EOLhyphen"/>ction. Here then his good Education began; theſe
+<pb n="5" facs="tcp:41942:5"/>pious Women gave him <hi>the knowledge of the Holy Scri<g ref="char:EOLhyphen"/>ptures from his Childhood.</hi>
+            </p>
+            <p>And that the good Work which they had begun might be effectually carried on, they, having themſelves early embrac'd the Chriſtian Doctrine, committed this their Charge to St. <hi>Paul,</hi> that as ſoon as he was capable he might attend him, and be farther inſtructed and im<g ref="char:EOLhyphen"/>prov'd by his Precepts and his Example. For altho' the firſt mention we meet with of him is in that paſ<g ref="char:EOLhyphen"/>ſage of the <hi>Acts of the Apoſtles,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 16.1.</note> where St. <hi>Paul</hi> is ſaid to have come to <hi>Derbe</hi> and <hi>Lyſtra,</hi> yet 'tis very proba<g ref="char:EOLhyphen"/>ble that he had attended the Apoſtle before that time, from a paſſage a little before the Text,
+<note place="margin">V. 10, 11.</note> where St. <hi>Paul</hi> tells him, that he had <hi>fully known,</hi> (the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which may fairly denote that he had known by attending the Apoſtle, by ſeeing, hearing, and ob<g ref="char:EOLhyphen"/>ſerving) <hi>his Doctrine, manner of Life, Purpoſe, Faith, Long-ſuffering, Patience, Perſecutions, Afflictions, which came unto him at</hi> Antioch, <hi>at</hi> Iconium, <hi>at</hi> Lyſtra.
+<note place="margin">
+                  <hi>Acts</hi> 14.1. <hi>ch.</hi> 13.1.</note> So that it ſeems he had been with him at <hi>Iconium,</hi> before he came to <hi>Lyſtra;</hi> and at <hi>Antioch,</hi> before he was at <hi>Ico<g ref="char:EOLhyphen"/>nium.</hi> 'Tis likely his Father was now dead, and he at the diſpoſe of his Mother; and to whom could ſhe bet<g ref="char:EOLhyphen"/>ter commit him, than to ſo admirable a Maſter as this; one who had himſelf had the moſt regular Education, as a <hi>Jew, brought up in</hi> Jeruſalem, <hi>at the feet of</hi> the great <hi>Gamaliel,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 22.3. <hi>Gal.</hi> 1.14.</note> and <hi>taught according to the perfect manner of the law of the Fathers;</hi> one who had <hi>profited in the Jews Religion above many his Equals in his own Nation;</hi> one who could <hi>thank God, that he had ſerv'd him from his Fore-fathers, with a pure Conſcience;</hi> one,
+<note place="margin">2 <hi>Tim.</hi> 1.3. <hi>Gal.</hi> 1.15, 16.</note> whom as <hi>it had pleas'd God to ſeparate from his Mother's Womb,</hi> ſo in due time <hi>he call'd him by his Grace, and reveal'd his Son</hi> firſt <hi>to him,</hi> and then <hi>by him,</hi> and that in a very ex<g ref="char:EOLhyphen"/>traordinary
+<pb n="6" facs="tcp:41942:6"/>manner; one who <hi>had not receiv'd the Go<g ref="char:EOLhyphen"/>ſpel of Man;</hi>
+               <note place="margin">V. 12.</note> 
+               <hi>neither had been taught it, but by the</hi> imme<g ref="char:EOLhyphen"/>diate <hi>Revelation of Jeſus Chriſt;</hi> and finally one who, as he had receiv'd, ſo he taught the Goſpel <hi>with Demon<g ref="char:EOLhyphen"/>ſtration and Power,</hi> endeavouring to propagate the know<g ref="char:EOLhyphen"/>ledge of it with the moſt exact fidelity, the moſt inde<g ref="char:EOLhyphen"/>fatigable Induſtry, and the moſt ardent Zeal that was poſſible. This was the Perſon, to whom young <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> was committed for his farther improvement.</p>
+            <p>And as the Apoſtle took him along with him in his Travels, ſo upon all occaſions he expreſt the greateſt ten<g ref="char:EOLhyphen"/>derneſs towards him,
+<note place="margin">1 Tim. 1.2. 2 <hi>Tim.</hi> 1.2.</note> ſtiling him <hi>his own Son in the Faith,</hi> and <hi>his dearly beloved Son;</hi> and having at length found him a fit Perſon, from his own experience, as well as from the recommendation of others;
+<note place="margin">
+                  <hi>Acts</hi> 16.2.</note> he conſe<g ref="char:EOLhyphen"/>crated him very early to the Work of the Miniſtry, and appointed him, whilſt yet Young, to be Biſhop of the Church of <hi>Epheſus.</hi>
+               <note place="margin">1 <hi>Tim.</hi> 4.12.</note> This was the Education of <hi>Timothy.</hi>
+            </p>
+            <p>And if from thence we would form an Idea of a juſt and regular Education, it muſt be to this purpoſe.</p>
+            <p>That in the firſt place Parents, thoſe to whom God hath committed the principal care of their Off-ſpring, being themſelves well inſtructed, prudent, virtuous and pious, make it their buſineſs, from the very dawning of Underſtanding and Reaſon, to cultivate and improve the Minds of their Young ones, inſtilling gradually, as their capacities ſhall be enlarg'd, ſuch Principles, and inuring them to ſuch Practices, as become Men and Chriſtians.</p>
+            <p>Where both the Parents ſhall conſpire, in carrying on the ſame deſign by the ſame methods, the Child will have an advantage above what <hi>Timothy</hi> ſeems to have had in his Childhood: but if either of them ſhall tho<g ref="char:EOLhyphen"/>rowly
+<pb n="7" facs="tcp:41942:6"/>do their part, tho' the other ſhould prove more unapt or negligent, we ſee in this inſtance, that by God's Bleſſing it may have it's effect.</p>
+            <p>And here even the weaker Sex may be of ſingular uſe.
+<note place="margin">1 <hi>Tim,</hi> 2.11, 12. 1 <hi>Cor.</hi> 14.34, 35.</note> For altho' our Apoſtle <hi>would not ſuffer Women to teach, or to uſurp Authority over the Men;</hi> but commands them <hi>to learn of them in ſilence, and with all ſubjection;</hi> yet we ſee he commends them for exerciſing Authority over and teaching their Children. And here indeed they have in divers reſpects the advantage of the Men; their tender Off-ſpring being firſt deliver'd by Nature into their Arms, they having, during their minority, the greateſt influence upon them, and it being conſe<g ref="char:EOLhyphen"/>quently their place and privilege to ſow the firſt ſeeds of Ingenuity, Virtue and Piety in them. But, where both Parents conſpire, each of them doing their proper part, the work is like to ſucceed beſt.</p>
+            <p>The next ſtep in a regular Education is, that the Parents having thus done, and ſtill continuing to do, as they have opportunity, what becomes them, both by their Inſtructions, Admonitions, Authority and Ex<g ref="char:EOLhyphen"/>ample, they take in the aſſiſtance of others to complete what they have begun, committing their Children to the care of ſuch choice Perſons, as ſhall be both able and willing to ſecond them in their deſigns and endea<g ref="char:EOLhyphen"/>vours.</p>
+            <p>To this purpoſe, that they ſend them to well-manag'd Schools, where they may both be confirm'd and im<g ref="char:EOLhyphen"/>prov'd in the Principles and Practice of Virtue and Pie<g ref="char:EOLhyphen"/>ty; and may receive ſuch farther Inſtructions, as may diſpoſe them to become wiſe and good and uſeful Men, in their ſeveral future Stations in the World.</p>
+            <p>And here great care is to be taken; for there are <hi>Quacks</hi> in <hi>all Profeſſions,</hi> as well as in that of <hi>Phyſick,</hi> and
+<pb n="8" facs="tcp:41942:7"/>in none do they Practice more frequently or more dan<g ref="char:EOLhyphen"/>gerouſly, than in <hi>this</hi> of teaching Youth. An ill Me<g ref="char:EOLhyphen"/>thod, or an ill management here will either Poyſon, or at leaſt weaken the Conſtitution of the Patient, and render him ſickly and infirm thro the whole remaining courſe of his Life. An Error committed in this Inſtance is like a fault in the firſt concoction, never thorowly mended by any following digeſtions.</p>
+            <p>After Children's being continued at School ſo long, as to anſwer the ends for which they are ſent thither, the next care is to place them under ſerious and judi<g ref="char:EOLhyphen"/>cious Directors of their following Studies, for the furniſh<g ref="char:EOLhyphen"/>ing them with more Manly Learning; or to commit them to ſuch prudent and virtuous Maſters, as may In<g ref="char:EOLhyphen"/>ſtruct them thorowly in the Arts and Myſteries which ſhall be found ſuitable to their Inclinations and Capaci<g ref="char:EOLhyphen"/>ties.</p>
+            <p>And whilſt they are paſſing through theſe ſeveral degrees of Education, eſpecial care is to be taken, that they be well grounded in the Principles of Religion, the main and fundamental Articles of Faith and Practice; that they be both privately and publickly Catechiz'd in <hi>a form of ſound Words,</hi> us'd to read, and taught to un<g ref="char:EOLhyphen"/>derſtand the plain and practical parts eſpecially of <hi>the holy Scriptures;</hi> conſtantly brought to the publick Worſhip of God, in the Company and under the Inſpection of thoſe that have the Charge of them; in a word, that they be led gradually into the habitual Practice of all thoſe Inſtances of Piety and Virtue, which are proper to their Age and Condition. This is the Summ of what I intend by a juſt and regular Education.</p>
+            <p>Before I proceed to the next particular, give me leave only juſt to obſerve, how much it becomes Parents in
+<pb n="9" facs="tcp:41942:7"/>the firſt Place, and all whom they entruſt in the next, to diſcharge their Duty in this Inſtance.</p>
+            <p>Children ſtand in great need of this their care. The beſt that can be ſaid of them is, that their minds are <hi>raſae tabulae, blanks,</hi> on which any Characters may be Writ<g ref="char:EOLhyphen"/>ten: but <hi>Zophar,</hi> in the Book of Job,
+<note place="margin">
+                  <hi>Job</hi> 11.12.</note> carries the matter farther, when he tells us, that <hi>Man is born like a wild aſſes Colt,</hi> which experience confirms, in thoſe eſpeci<g ref="char:EOLhyphen"/>ally who are under the diſadvantage of a looſe or careleſs Education. As they are Ignorant and dull, inſenſible of that which is good; ſo they are moreover untam'd and fierce, impatient of all reſtraint, violently bent upon their own will and humor, running wildly from one extravagance to another, to their own Perdition. Now 'tis Education, which muſt mollifie and tame, which muſt correct and cure by degrees this untoward diſpo<g ref="char:EOLhyphen"/>ſition.</p>
+            <p>And Childhood and Youth are, without all doubt, the proper Seaſons for making this attempt. Then it is, that they have not contracted ſtrong habits of Vice, which will be very difficultly broken. Then it is, that the Un<g ref="char:EOLhyphen"/>derſtanding is eaſily opened, the Memory retentive, and the Mind ſoft and tender, ſo that Impreſſions may be eaſily and deeply made upon it. Then it is, that they are perfectly at leiſure to attend to what is ſaid to them, not engag'd in an hurrey of buſineſs, nor eager in the purſuit of Secular Deſigns. If theſe Seaſons be neglected, they are never to be retriev'd, nor the loſs thorowly re<g ref="char:EOLhyphen"/>pair'd by any after care; no more than the Seaſons of the Year can be recall'd by the careleſs Husbandman, who has neglected to ſow his Seed, in the time appointed by God in Nature. In fine, by an early care, Piety and Virtue, and Learning of all kinds may be render'd eaſy and Pleaſant; whereas by delay it will become extremely
+<pb n="10" facs="tcp:41942:8"/>hard at leaſt, a great pain and drudgery, if not an inſu<g ref="char:EOLhyphen"/>perable difficulty, to acquire either intellectual or mo<g ref="char:EOLhyphen"/>ral Habits.</p>
+            <p>To conclude this particular. Thoſe who have the charge of Youth, whether Parents or Maſters of any ſort, ſhould Remember that Providence hath committed them to their care, in order to their preſent and future wel<g ref="char:EOLhyphen"/>fare, and that an Account will be expected from them, how they have diſcharg'd this their truſt.</p>
+            <p>But to proceed to the next particular contain'd in the Words, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> An Intimation of ſomething Neceſſary on the part of the Learners, as well as of the Teachers, and that is, a due Application of mind to what is taught them, and a ſerious Reflection upon what they have learn'd.</p>
+            <p>
+               <hi>Timothy</hi> had not only <hi>learn'd,</hi> but was <hi>aſſur'd;</hi> and how was that? No doubt, by a careful obſervation of the Inſtructions given him by his Grandmother and Mother in the firſt place; as afterwards by a diligent attendance both to the Precepts and Example of that great Apoſtle whom he accompanyed; and finally by a ſerious Reflection upon what he had <hi>learn'd</hi> either of the one or the other.</p>
+            <p>This is abſolutely neceſſary in a Learner; 'tis the mak<g ref="char:EOLhyphen"/>ing that which he is taught, his own; 'tis like the Di<g ref="char:EOLhyphen"/>geſtions perform'd in the Stomach and in the Bloud, which firſt turn the food into chyle, and afterwards into nutriment to all the parts of the Body. It was for want of this, that ſome in the Apoſtles days fell under the Character he gives in this Chapter, of ſuch as <hi>are ever learning,</hi>
+               <note place="margin">V. 7.</note> 
+               <hi>and never able to come to the knowledge of the Truth.</hi>
+            </p>
+            <p>Such indeed was the Evidence given to <hi>Timothy</hi> of the Truth of <hi>thoſe things which he had learn'd,</hi> that nothing but Application and Reflection, attended with Integrity
+<pb n="11" facs="tcp:41942:8"/>of Mind, could be wanting to render him fully <hi>aſſur'd.</hi> The <hi>Scriptures</hi> of the Old Teſtament, which he had <hi>known from a Child,</hi> do give ſo full and pregnant Evi<g ref="char:EOLhyphen"/>dence to the truth of Chriſtianity, <hi>the Law and the Pro<g ref="char:EOLhyphen"/>phets</hi> were ſo perfectly <hi>fulfill'd</hi> by our bleſſed Saviour in the diſpenſation of the Goſpel, that a right under<g ref="char:EOLhyphen"/>ſtanding of both, and a juſt comparing one with the other, muſt neceſſarily convince and ſatisfie an honeſt Mind. And St. <hi>Paul,</hi> of whoſe ability, probity, and good-will towards him, <hi>Timothy</hi> had ſuch abundant Evidence, could add over and above, ſuch Teſtimony to the truth of the Doctrine which he Preach'd, that no<g ref="char:EOLhyphen"/>thing beyond it could be deſir'd. He could, for in<g ref="char:EOLhyphen"/>ſtance, recount to him the violent Prejudices he him<g ref="char:EOLhyphen"/>ſelf had once lay'n under, the Zeal with which he then perſecuted Chriſtians, and which engag'd him in that very Expedition, in which he was converted; how he was then on a ſudden ſtruck down to the ground, and both he and thoſe who were with him, aſtoniſh'd; how he ſaw a great light from Heaven, and heard the voice of Jeſus himſelf diſtinctly calling to him from thence; how after this he remain'd for three days without ſight, continuing in Prayer and Faſting, till <hi>Ananias</hi> was ſent to him, and by laying his hands upon him in the Name of <hi>Jeſus</hi> reſtor'd his ſight to him, and admitted him into the Chriſtian Church by Baptiſm; how ſince that time he had been favor'd with divers heavenly Viſions and Re<g ref="char:EOLhyphen"/>velations; how he found himſelf inwardly enlighten'd and ſtrengthned, enabled to Preach the Chriſtian Do<g ref="char:EOLhyphen"/>ctrine with great Zeal and Courage, and to confirm it with Miracles, and to expoſe his Life and all that was dear to him in this World upon its account. He could farther, ſince his becoming a Chriſtian, expound to <hi>Timothy</hi> the Old Teſtament more thorowly, and apply
+<pb n="12" facs="tcp:41942:9"/>it more clearly to the Chriſtian Revelation, <hi>confounding</hi> Gain-ſayers, and <hi>proving that</hi> Jeſus <hi>was the very</hi> Chriſt.</p>
+            <p>'Tis true, even all this muſt have been loſt upon <hi>Timothy,</hi> if he had not duly attended and reflected up<g ref="char:EOLhyphen"/>on it; and eſpecially if he had been byaſs'd by any cor<g ref="char:EOLhyphen"/>rupt or vitious Inclinations, againſt the Chriſtian Do<g ref="char:EOLhyphen"/>ctrine. In ſuch a caſe, neither <hi>Moſes</hi> nor <hi>the Prophets,</hi> not one <hi>riſen from the Dead,</hi> not <hi>Jeſus</hi> himſelf, after his Reſurrection and Aſcenſion, appearing and ſpeaking from Heaven, nor any other Demonſtration would prevail; ſo neceſſary Qualifications are probity in the firſt place, and then ſeriouſneſs and diligence, in our enquiries af<g ref="char:EOLhyphen"/>ter Divine Truth. And in all other caſes, a juſt appli<g ref="char:EOLhyphen"/>cation and reflection are equally neceſſary in a Learner.</p>
+            <p>This therefore ſhould be an Admonition to Learners, that they be not ſatisfied with being plac'd under able Teachers, nor glory in the regularity of their Educa<g ref="char:EOLhyphen"/>tion, till they are conſcious of having perform'd their own part, in receiving and thorowly digeſting what has been taught them. 'Tis your great Privilege and Feli<g ref="char:EOLhyphen"/>city to have fallen into the Hands of thoſe who are able and willing to inſtruct and improve you: but it will turn highly to your reproach and infamy, it will aggravate greatly your ſin and miſery, if you do not thankfully improve ſo great a Bleſſing, by the addition of your own Care and Induſtry.</p>
+            <p>Before I leave this Head, I ſhall only take notice of that dangerous Caution of the Church of <hi>Rome,</hi> where<g ref="char:EOLhyphen"/>by it's Members are reſtrain'd from examining the Prin<g ref="char:EOLhyphen"/>ciples of their Religion, and are oblig'd to believe as their Church believes without nicely enquiring into par<g ref="char:EOLhyphen"/>ticulars; nay, are moreover forbid to read, and conſe<g ref="char:EOLhyphen"/>quently <hi>to know the Holy Scriptures,</hi> not only whilſt <hi>Children,</hi> but even when arriv'd at years of Underſtand<g ref="char:EOLhyphen"/>ing
+<pb n="13" facs="tcp:41942:9"/>and Diſcretion. Nothing certainly but conſciouſ<g ref="char:EOLhyphen"/>neſs of guilt could ever have induc'd that Church to take this ſcandalous courſe, whereby however it may prevail with its Members to believe, it can never ren<g ref="char:EOLhyphen"/>der them <hi>aſſur'd of thoſe things which they have learn'd.</hi> Men may be confident, as thoſe that are moſt ignorant are moſt apt to be, without Examination; but ratio<g ref="char:EOLhyphen"/>nally aſſur'd they can never be.</p>
+            <p>How contrary is this to the Pattern of our Text! Both <hi>the Grandmother</hi> and <hi>Mother</hi> of <hi>Timothy</hi> were it ſeems converſant with the <hi>Holy Scriptures,</hi> and took care that he, whilſt <hi>a Child,</hi> ſhould be ſo too; and afterwards as he grew up, he did not only <hi>learn,</hi> but <hi>was aſſur'd,</hi> which he never could have been upon ſolid grounds, unleſs he had firſt <hi>known the Holy Scriptures,</hi> and after<g ref="char:EOLhyphen"/>wards conſider'd and examin'd what St. <hi>Paul</hi> taught him.</p>
+            <p>'Tis true, there is a very conſiderable difference be<g ref="char:EOLhyphen"/>tween the Capacities of Men. Some are of weak and narrow Minds, and have but little leiſure from the ne<g ref="char:EOLhyphen"/>ceſſary buſineſs of humane life; and in that caſe, ſup<g ref="char:EOLhyphen"/>poſing them truly honeſt, there can be no queſtion, but that God by his good Providence will take care that they be competently inſtructed; and will make fair al<g ref="char:EOLhyphen"/>lowances for their unavoidable Ignorance and Miſtakes. But after all, the great and neceſſary Truths of Religion are ſo intelligible, and ſo plainly expreſs'd in the <hi>Holy Scriptures,</hi> and a great part of thoſe ſacred Writings are ſo evidently calculated for the uſe of all ſorts and con<g ref="char:EOLhyphen"/>ditions of Men, that thoſe who are bleſt with the means which we enjoy, may by a tolerable diligence and ap<g ref="char:EOLhyphen"/>plication, ſuch as they uſe in all other caſes of concern<g ref="char:EOLhyphen"/>ment, not only <hi>learn,</hi> but attain to a reaſonable <hi>aſſu<g ref="char:EOLhyphen"/>rance of what they have learn'd.</hi>
+            </p>
+            <pb n="14" facs="tcp:41942:10"/>
+            <p> But I haſten to the laſt particular I obſerv'd in the Words, viz.</p>
+            <p>
+               <hi>Thirdly,</hi> The great Obligation ſuch Perſons are under, who have been well inſtructed, and aſſur'd of thoſe things which they have learn'd, <hi>to continue in them.</hi>
+            </p>
+            <p>This St. <hi>Paul</hi> urges upon <hi>Timothy; Continue thou in the things which thou haſt learn'd, &amp;c,</hi> And certainly the Obligation is as great as is poſſible, both in gratitude to Almighty God, and to thoſe who have been his Inſtru<g ref="char:EOLhyphen"/>ments for our good; and in kindneſs and juſtice to our ſelves.</p>
+            <p n="1">I. Such Perſons are oblig'd in gratitude to Almighty God, who hath confer'd ſo ſingular a Bleſſing upon them.</p>
+            <p>Next to our being made after the image of God, and our being reſtor'd to a capacity of recovering the Divine Image and favour by Jeſus Chriſt, is the Bleſſing of a good Education, the having had wiſe and good Parents for the Inſtruments of our coming into the World, and the being committed by them to the care of others like themſelves. There is according to all juſt Eſtimation, no compariſon between the Advantages of a meer de<g ref="char:EOLhyphen"/>ſcent from noble or wealthy Progenitors; and thoſe of an honeſt Parentage accompanied with a virtuous and liberal Education. Theſe may, and often do raiſe Men to as <hi>real</hi> a Superiority above ſuch, as can only boaſt of the former; as <hi>they</hi> are rais'd to an <hi>Imaginary</hi> one above the reſt of Mankind. Theſe are the proper and likely means of informing the Judgment aright, of rectifying the Temper of the Soul, of repairing the Image of God upon the Mind, of bringing Men to a due knowledge of themſelves and their main end, and diſpoſing them to act with a juſt regard thereunto, of rendering them uſeful and truly eaſy in this Life, and preparing and qua<g ref="char:EOLhyphen"/>lifying them for a better.</p>
+            <pb n="15" facs="tcp:41942:10"/>
+            <p> And ſurely they are greatly indebted to God, who are favour'd with ſuch Advantages, eſpecially conſide<g ref="char:EOLhyphen"/>ring that they are the Effects of his meer bounty, not our own choice. For 'tis he alone who can appoint what Parents we ſhall be born of, 'tis by his Providence that our Maſters and Governors, thoſe who have the charge of our younger Years are aſſign'd to us. The Improve<g ref="char:EOLhyphen"/>ment of theſe advantages is, under the conduct of his Grace, our part: but the beſtowing them is wholly his.</p>
+            <p n="2">II. There is a farther Obligation upon ſuch Perſons, in gratitude to thoſe, who have been God's Inſtruments for their good.</p>
+            <p>Parents and Maſters deſerve a thankful acknowledg<g ref="char:EOLhyphen"/>ment, and ingenuous requital from thoſe who have been the Subjects of their tenderneſs and care, which is ſuch as we cannot be thorowly ſenſible of till we our ſelves become Parents and Maſters to others. Then, if we diſ<g ref="char:EOLhyphen"/>charge our duty faithfully, we beſt know, becauſe we feel, the weight and trouble of ſuch a Truſt. It ſhould there<g ref="char:EOLhyphen"/>fore be one of the greateſt Pleaſures of our Souls, and it will be ſo, if they are rightly diſpos'd, to make grateful returns to ſo great Benefactors; and the very beſt which they deſire, or we can make, is <hi>to continue in the things we have learn'd of them.</hi>
+            </p>
+            <p>'Tis true, if we are not firſt duly thankful to Almighty God, our firſt and chief Benefactor, upon this account, 'tis not likely we ſhould be ſo to his Inſtruments: but both theſe conſiderations put together, may ſerve to increaſe the ſenſe of our obligation to both. And if neither of theſe will work upon our Ingenuity, there is yet another which may move us from the principle of ſelf Love, for</p>
+            <p n="3">III. Such Perſons are farther oblig'd in kindneſs and juſtice to themſelves.</p>
+            <pb n="16" facs="tcp:41942:11"/>
+            <p> Providence hath done for them all that is poſſible, in an ordinary way, in order to their preſent and their ever<g ref="char:EOLhyphen"/>laſting Well-being. The Paths of Wiſdom, Virtue and Happineſs are plainly mark'd out to them, they are as it were led by the hand into the right way, and cuſtome and exerciſe have render'd their duty eaſy and pleaſant to them; ſo that they have nothing farther to do, but to perſevere in a ſtrait courſe, <hi>turning neither to the right hand nor to the left.</hi>
+            </p>
+            <p>'Tis difficult and diſcouraging to begin to learn the Art of living, when we are grown into Years; and to be forc'd to break off evil Cuſtoms and Habits which we have been long contracting; (though this is abſolutely neceſſa<g ref="char:EOLhyphen"/>ry, if we have been ſo unhappy as not to begin ſooner:) but nothing can be more eaſy, nothing more delight<g ref="char:EOLhyphen"/>ful, than to follow the Inſtructions which have been early given us, and frequently inculcated upon us, which we our ſelves have been made to underſtand and ap<g ref="char:EOLhyphen"/>prove, and to perſevere in thoſe Habits which we have been accuſtom'd to from our tender Years.</p>
+            <p>Whereas on the other Hand, we cannot forſake the Inſtructions of our Youth, nor depart from the good Ways in which we have been us'd to walk, without contradicting our own Judgments, offering violence to our Conſciences, diſturbing the Peace of our Souls, and filling them with conſtant Regret and Horror; nor finally without expoſing our ſelves to the higheſt diſplea<g ref="char:EOLhyphen"/>ſure of Almighty God, and the ſevereſt Puniſhment from his Hands.
+<note place="margin">
+                  <hi>Heb.</hi> 6.7, 8, 9.</note> For, as the Apoſtle to the <hi>Hebrews</hi> elegant<g ref="char:EOLhyphen"/>ly makes the Reſemblance, <hi>The Earth, which drinketh in the Rain, which cometh oft upon it, and bringeth forth Herbs meet for them by whom it is dreſſed, receiveth Bleſſing from God: But that which beareth. Thorns and Briars is rejected, and is nigh unto curſing, whoſe end is to be burned. But
+<pb n="17" facs="tcp:41942:11"/>beloved, we are perſwaded better things of you, and things that accompany Salvation, though we thus ſpeak.</hi>
+            </p>
+            <p>Give me leave to conclude all, with applying very briefly the Exhortation in the Text to our ſelves, under the <hi>Three</hi> following Denominations.</p>
+            <p n="1">I. To thoſe amongſt us who are devoted to any Spiri<g ref="char:EOLhyphen"/>tual Office or Employment in the Church of Chriſt.</p>
+            <p>As the Exhortation was here given to <hi>Timothy,</hi> Biſhop of the Church of <hi>Epheſus;</hi> ſo it concerns all the Biſhops and Paſtors of the Church in every Age, <hi>to continue in the things which they have learn'd and been aſſur'd of.</hi>
+            </p>
+            <p>The Special Occaſion of this Admonition, as I obſerv'd before, was the ſtarting up of ſome falſe and dangerous Teachers, who endeavour'd to corrupt both the Faith and Manners of Chriſtians. The Apoſtle compares them to <hi>Jannes and Jambres, who withſtood Moſes;</hi>
+               <note place="margin">V. 8.</note> 
+               <hi>in like manner theſe alſo reſiſted the Truth, who were, as he adds, Evil Men and Seducers,</hi>
+               <note place="margin">V. 13.</note> 
+               <hi>deceiving and being decei<g ref="char:EOLhyphen"/>ved.</hi> And I am afraid there is too much Occaſion upon the ſame Account, for the like Admonition in our Days alſo. There are ariſen up amongſt us, <hi>Men of corrupt Minds, and Reprobate concerning the Faith,</hi> Men that have preſum'd boldly and wantonly to diſpute againſt the an<g ref="char:EOLhyphen"/>tiently receiv'd and eſtabliſh'd Doctrines of Chriſtianity, making their ſhallow Conceptions the Meaſure of divine Revelation, and haughtily diſdaining to believe what they cannot fully comprehend; nay, there are ſome who have not only corrupted, but denyed the Faith, to whom the holy Scriptures ceaſe to be ſacred, and the inſpired Penmen are become of no authority, who make it their buſineſs to cavil at what they do not underſtand, and to expoſe to contempt what they have never conſider'd, and what, during the affected levity of their tempers, they are uncapable of conſidering; who having firſt de<g ref="char:EOLhyphen"/>viated
+<pb n="18" facs="tcp:41942:12"/>from the Practice of Chriſtianity, accounting its Rules of Life and manners too ſtrict, are forc'd afterwards for the eaſe of their minds to throw off it's very Principles too; in a word, who not only like thoſe of whom St. <hi>Paul</hi> complains in this Chapter,
+<note place="margin">V. 5.</note> have <hi>denyed the Power;</hi> but alſo lay'd aſide <hi>the very form of Godlineſs,</hi> who have in effect renounc'd their Baptiſm, and broke looſe from all the Obligations of their Education.</p>
+            <p>We ought therefore not only to be ſtedfaſt our ſelves; but to make it our care alſo to eſtabliſh, as much as in us lies, the Flock committed to our Charge.</p>
+            <p>We have <hi>learn'd,</hi> and upon good grounds been <hi>aſſur'd</hi> of the things which we profeſs, <hi>we know of whom we have learn'd them,</hi> namely of the Inſpir'd Penmen of the holy Scriptures, thoſe ſacred Books which we have taken as the Rule of our Faith and Practice and Doctrine, and from which, thorowly conſider'd, we have wherewith <hi>to ſtop the Mouths of all gainſayers.</hi>
+            </p>
+            <p n="2">II. I may apply the ſame Admonition to all of us, as Chriſtians.</p>
+            <p>It is our duty as ſuch firmly to adhere to <hi>the Form of Sound Words</hi> deliver'd to us at our <hi>Baptiſm,</hi> and to be true and faithful to the ſolemn Vow and Promiſe then made in our Names, which thoſe of us who are come to years of Diſcretion, have, as it may be preſum'd, taken upon our ſelves. <hi>We know of whom we have learn'd</hi> theſe things, namely of our bleſſed Saviour and his Apoſtles, by the help of thoſe ſacred Books which lie open before us, for our conſtant inſtruction and direction, and in the due uſe of which, we may arrive to a well grounded <hi>aſſurance,</hi> upon the ſame Principles and Reaſons upon which <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> was <hi>aſſur'd</hi> of what he had <hi>learn'd.</hi> 'Tis to be hoped we have all of us been carefully inſtructed in them from our Childhood, and it becomes us to make them our
+<pb n="19" facs="tcp:41942:12"/>daily Study, that by a thorough acquaintance with them, we may be fortifyed againſt all the attempts of ſuch as would either ſhock our Belief, or vitiate our Practice.</p>
+            <p n="3">III. Let me in the laſt place apply this Admonition to thoſe of us, who have had our Education at St. <hi>Paul</hi>'s School.</p>
+            <p>A School that makes good the Inſcription upon it's Walls, <hi>viz. Schola catechizationis puerorum in fide Chriſti, Opt. max. &amp; bonis literis;</hi> which as it was deſigned by it's Pious and learned Founder, heretofore a Dean of this Cathedral Church, to theſe excellent purpoſes, ſo by the faithful and diligent management of it's worthy Over<g ref="char:EOLhyphen"/>ſeers, the Worſhipful Company of <hi>Mercers,</hi> it has been conſtantly bleſt with a ſucceſſion of excellent Maſters, Perſons eminently skill'd in their Profeſſion, and thorowly qualifyed to inſtruct thoſe committed to their charge. So that we may upon this account alſo ſay, that <hi>we know of whom we have learn'd.</hi>
+            </p>
+            <p>There we were early taught the Principles of True Religion, and the Rudiments of good Learning. There we daily read <hi>the Holy Scriptures,</hi> and were frequently Catechis'd, according to that <hi>form of ſound Words,</hi> which our Church hath appointed for that uſe. There alſo we were daily Exercis'd in offering up our joynt. Devotions to Almighty God, rendering thanks to him for his Bleſ<g ref="char:EOLhyphen"/>ſings, and asking of him ſuch good things as were ſuit<g ref="char:EOLhyphen"/>able to our occaſions and circumſtances. There our Youth was form'd to Piety and Virtue, to real, not only for<g ref="char:EOLhyphen"/>mal, good manners; and there moreover diverſe of us lay'd the ſure Foundation of our future Studies. We are met together at this time to make a publick and grateful acknowledgment of theſe great Bleſſings to God and the World.</p>
+            <p>Let us therefore in the words of our Apoſtle, <hi>continue in the things which we have learn'd.</hi> So ſhall we truly an<g ref="char:EOLhyphen"/>ſwer
+<pb n="20" facs="tcp:41942:13"/>the end of our Founder, our Patrons, Benefactors and Maſters; ſo ſhall we do honor to the Place of our Edu<g ref="char:EOLhyphen"/>cation; finally, ſo ſhall we beſt expreſs and teſtifie our real Gratitude to Almighty God, and comply with the main deſign of our preſent aſſembling, which is by mak<g ref="char:EOLhyphen"/>ing this our publick acknowledgment, to put our ſelves in mind of the Obligations we are under.</p>
+            <p>
+               <hi>Now to that good God who gave us our Beings, who form'd us in the Womb, who preſerv'd, and Inſtructed us in our child<g ref="char:EOLhyphen"/>hood and in our Youth, and who hath taken care of us to this day, to God even our Father, and our Lord Jeſus Chriſt, with the Eternal Spirit, be aſcribed all Praiſe and Glory, now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41942:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
